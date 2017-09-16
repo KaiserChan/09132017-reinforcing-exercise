@@ -31,3 +31,5 @@ def find_record_with_most_points(records)
 end
 
 puts find_record_with_most_points(records)
+
+#max_by(n)?
